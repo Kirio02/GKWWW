@@ -1,0 +1,6 @@
+{
+  "name": "Ghanshyam kids wear",
+  "description": "Smart digital ledger, kids wear inventory catalog, POS billing with custom invoice themes, and AI voice store manager for Ghanshyam kids wear. Engineered by Kirio Ken.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
